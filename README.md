@@ -38,3 +38,18 @@ This hands-on project demonstrates how to configure secure cloud storage using A
 
 ## Notes
 This is a learning project. The tests validate the configurations listed above and do not represent a complete security audit or penetration test.
+
+
+## Project Screenshots
+
+### Default Encryption
+![Default Encryption](Default%20encryption.png)
+
+### Bucket Versioning
+![Bucket Versioning](Bucket%20Versioning.png)
+
+### Block Public Access
+![Block Public Access](Block%20public%20access.png)
+
+### Access Denied Test
+![Access Denied](AccessDenied.png)
